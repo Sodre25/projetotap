@@ -1,0 +1,13 @@
+main{
+  border: 5px solid dodgerblue;
+  display:grid;
+  grid-template-columns:repeat(5fr,1fr);
+  grid-template-rows:repeat(5fr,1fr);
+  gap: 2px;}
+  
+ 
+  
+div{
+  border: 1px solid coral;
+  gap: 10px;
+}
